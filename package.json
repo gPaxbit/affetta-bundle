@@ -1,0 +1,39 @@
+{
+  "name": "affetta-bundle",
+  "version": "1.0.0",
+  "description": "Frontend boilerplate & scaffolding",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "gulp",
+    "file": "node scripts/create.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gPaxbit/affetta-bundle.git"
+  },
+  "author": "Ushakov Kirill",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gPaxbit/affetta-bundle/issues"
+  },
+  "homepage": "https://github.com/gPaxbit/affetta-bundle#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-latest": "^6.24.1",
+    "chalk": "^2.4.1",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^7.0.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-debug": "^4.0.0",
+    "gulp-postcss": "^8.0.0",
+    "gulp-pug": "^4.0.1",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-stylus": "^2.7.0",
+    "gulp-watch": "^5.0.1",
+    "pug": "^2.0.3",
+    "shelljs": "^0.8.2",
+    "yarn": "^1.9.4"
+  }
+}
