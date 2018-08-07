@@ -7,8 +7,10 @@ HTML-шаблонизатор - `pug`
 Система сборки - `gulp`
 
 Javascript - `babel (es6)`
+
 ## Установка и запуск
-* клонируем репозиторий
+* `git remote add origin https://github.com/gPaxbit/affetta-bundle.git`
+* `git pull origin master`
 * `npm install`
 * `npm start`
 
