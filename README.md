@@ -1,12 +1,9 @@
 # Affetta-bundle
 ## Стек технологий
-CSS-шаблонизатор - `stylus`
-
-HTML-шаблонизатор - `pug`
-
-Система сборки - `gulp`
-
-Javascript - `babel (es6)`
+* CSS-шаблонизатор - `stylus`
+* HTML-шаблонизатор - `pug`
+* Javascript - `babel (es6)`
+* Система сборки - `gulp`
 
 ## Установка и запуск
 * `git remote add origin https://github.com/gPaxbit/affetta-bundle.git`
@@ -17,14 +14,11 @@ Javascript - `babel (es6)`
 ## Sacffolding
 `npm run file <type> <[path/to/]file>`
 
-#### Возможные типы файлов
-**pug** - при создании в верхнем уровне автоматически инклюдит head-секцию
-
-**styl** - автоматический @import в dev/~/main.styl
-
-**js**
+#### *Возможные типы файлов*
+* **pug** - при создании в верхнем уровне автоматически инклюдит head-секцию
+* **styl** - автоматический @import в dev/~/main.styl
+* **js**
 
 ## Браузерные плагины
-Для установки браузерных плагинов используется [Yarn](https://yarnpkg.com/en/docs/install#windows-stable)
-
-Путь установки - `www\vendors`
+* Для установки браузерных плагинов используется [Yarn](https://yarnpkg.com/en/docs/install#windows-stable)
+* Путь установки - `www\vendors`
