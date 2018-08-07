@@ -20,6 +20,3 @@
 * **styl** - автоматический @import в dev/~/main.styl
 * **js**
 
-## Браузерные плагины
-* Для установки браузерных плагинов используется [Yarn](https://yarnpkg.com/en/docs/install#windows-stable)
-* Путь установки - `www\vendors`
